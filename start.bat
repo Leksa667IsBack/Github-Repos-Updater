@@ -1,2 +1,2 @@
 @echo off
-start /B python update.py
+start /B python updater.py
